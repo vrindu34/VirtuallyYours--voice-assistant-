@@ -1,0 +1,13 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+wikipedia
+pyjokes
+requests
+wolframalpha
+openai
+winshell
+feedparser
+beautifulsoup4
+wmi
+python-dotenv
